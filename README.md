@@ -9,4 +9,4 @@
 * CSS, HTML, Google 
 
 ## Resultado:
- ![Gif gravação](img/gravacao.gif)
+ ![Gif gravação](img/gravando.gif)
