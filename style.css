@@ -1,0 +1,68 @@
+ form {
+  background-color: rgb(255, 255, 255);
+  padding: 70px;
+  font-family: Aptos Display;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 10px;
+}
+h1 {
+ text-align: center;
+ color: antiquewhite;
+}
+ body {
+  background-color: rgb(46, 54, 71);
+font-family: 'Courier New', Courier, monospace;
+ }
+ p { 
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+ h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  h3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  #lanche {
+    max-width:140px;
+  max-height:140px;
+  width: 30%;
+  position: absolute;
+  left: 730px;
+  top: 20%;
+  border-radius: 55%
+}
+ #coca {
+  max-width:140px;
+  max-height:140px;
+  width: 30%;
+  position: absolute;
+  left: 730px;
+  top: 140%;
+  border-radius: 55%
+}
+#batata {
+    max-width:140px;
+    max-height:140px;
+    width: 30%;
+    position: absolute;
+    left: 730px;
+    top: 184%;
+    border-radius: 55%
+}
+span {
+  color: red;
+}
+h4 {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+footer {
+	background-color: rgb(255, 250, 250);
+	color: black;
+	padding: 5px;
+	margin-top: 10px;
+  border-radius: 10px;
+  text-align: center;
+  position: 100%;
+}
